@@ -39,7 +39,7 @@ class ViewController: UIViewController {
                 print("We got an error")
             }
             
-        }
+        }.resume()
     }
 
 
